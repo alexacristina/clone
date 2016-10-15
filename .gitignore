@@ -1,0 +1,6 @@
+__pycache__/
+*py[cod]
+__init__.py
+migrations/
+*.sqlite3
+.idea/
